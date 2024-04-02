@@ -27,6 +27,6 @@
     
   <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="Gmail" style="margin-right: 10px;"/>
-    <a href="mailto:lucaslima.portelinhaj@gmail.com" style="text-decoration: none; color: black;">(34) 9249-4414</a>
+    <a href="mailto:(34) 9249-4414" style="text-decoration: none; color: black;">(34) 9249-4414</a>
 </div>
 </p>
